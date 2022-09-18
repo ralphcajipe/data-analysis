@@ -1,2 +1,2 @@
-# analytics-cs0009
-Source code for CS0009's lectures
+# Analytics
+Source Code for (Fundamentals of Analytics) CS0009's lectures and labs
