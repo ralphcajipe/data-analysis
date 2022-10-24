@@ -1,0 +1,601 @@
+,Customer_ID,Occupation,PROVINCE,GENDER,MARITAL_STATUS,URBANITY,CREDIT_BUREAU,INCOME_TIER
+0,009-17336,White collar worker,Takéo,FEMALE,MARRIED,Rural,B,2.0
+1,009-17170,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+2,009-17046,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+3,009-17381,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+4,009-17088,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+5,009-17186,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,D,3.0
+6,009-17283,Factory worker,Takéo,MALE,MARRIED,Rural,,3.0
+7,009-17058,Factory worker,Takéo,FEMALE,SINGLE,Rural,A,2.0
+8,009-17535,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+9,009-17140,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+10,009-17061,Factory worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+11,009-17549,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+12,009-17404,White collar worker,Takéo,MALE,MARRIED,Rural,A,3.0
+13,009-17317,White collar worker,Takéo,FEMALE,WIDOWER,Rural,A,3.0
+14,009-17599,White collar worker,Takéo,FEMALE,WIDOWER,Rural,A,3.0
+15,009-17326,Construction Worker,Takéo,FEMALE,MARRIED,Rural,C,2.0
+16,009-17474,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+17,009-17407,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+18,009-17236,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+19,009-17012,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+20,009-17399,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+21,009-17165,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+22,009-17471,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+23,009-17524,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,4.0
+24,009-17321,White collar worker,Takéo,FEMALE,MARRIED,Rural,,1.0
+25,009-17208,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+26,009-17078,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+27,009-17448,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+28,009-17319,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+29,009-17398,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+30,009-17169,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+31,009-17401,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+32,009-17295,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+33,009-17107,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+34,009-17426,Small Farmer,Takéo,FEMALE,DIVORCED,Rural,,2.0
+35,009-17431,Factory worker,Takéo,FEMALE,SINGLE,Rural,A,2.0
+36,009-17240,Small Farmer,Takéo,FEMALE,MARRIED,Rural,A,2.0
+37,009-17262,Construction Worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+38,009-17070,Construction Worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+39,009-17415,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,3.0
+40,009-17446,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+41,009-17074,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+42,009-17558,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+43,009-17493,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,3.0
+44,009-17121,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+45,009-17466,SME Farmer,Takéo,FEMALE,WIDOWER,Rural,A,4.0
+46,009-17063,Factory worker,Takéo,MALE,MARRIED,Rural,C,4.0
+47,009-17562,Construction Worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+48,009-17568,Other,Takéo,FEMALE,MARRIED,Rural,B,5.0
+49,009-17453,Other,Banteay Meanchey,MALE,MARRIED,Rural,,1.0
+50,009-17583,Factory worker,Banteay Meanchey,MALE,MARRIED,Rural,,3.0
+51,009-17095,Factory worker,Takéo,FEMALE,WIDOWER,Rural,B,3.0
+52,009-17383,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+53,009-17171,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+54,009-17003,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+55,009-17010,,Takéo,FEMALE,WIDOWER,Rural,,
+56,009-17470,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+57,009-17460,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+58,009-17275,Medium Biz,Takéo,FEMALE,MARRIED,Rural,B,5.0
+59,009-17243,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,2.0
+60,009-17480,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+61,009-17445,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,C,4.0
+62,009-17051,Medium Biz,Takéo,FEMALE,MARRIED,Rural,B,5.0
+63,009-17225,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+64,009-17105,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,4.0
+65,009-17507,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+66,009-17492,Car Repair Shop,Takéo,MALE,MARRIED,Rural,,3.0
+67,009-17488,Land Transport Service,Takéo,FEMALE,MARRIED,Rural,B,3.0
+68,009-17096,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+69,009-17478,Factory worker,Takéo,MALE,MARRIED,Rural,D,3.0
+70,009-17369,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+71,009-17216,Factory worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+72,009-17093,SME Farmer,Takéo,FEMALE,MARRIED,Rural,B,4.0
+73,009-17501,SME Farmer,Takéo,FEMALE,MARRIED,Rural,D,4.0
+74,009-17595,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+75,009-17220,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+76,009-17143,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+77,009-17241,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+78,009-17087,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,2.0
+79,009-17054,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+80,009-17222,SME Farmer,Takéo,MALE,MARRIED,Rural,B,4.0
+81,009-17328,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+82,009-17043,Construction Worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+83,009-17489,Medium Biz,Takéo,MALE,MARRIED,Rural,B,5.0
+84,009-17310,,Takéo,FEMALE,WIDOWER,Rural,,
+85,009-17584,Factory worker,Kampong Speu,MALE,MARRIED,Rural,B,3.0
+86,009-17557,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+87,009-17229,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+88,009-17035,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,D,3.0
+89,009-17147,SME Farmer,Takéo,FEMALE,WIDOWER,Rural,A,4.0
+90,009-17521,Construction Worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+91,009-17209,Factory worker,Takéo,FEMALE,SINGLE,Rural,A,2.0
+92,009-17370,Construction Worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+93,009-17372,White collar worker,Takéo,MALE,MARRIED,Rural,A,3.0
+94,009-17205,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+95,009-17418,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+96,009-17016,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+97,009-17368,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+98,009-17163,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+99,009-17391,SME Farmer,Takéo,FEMALE,MARRIED,Rural,C,4.0
+100,009-17406,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+101,009-17006,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,3.0
+102,009-17546,Factory worker,Takéo,FEMALE,WIDOWER,Rural,B,3.0
+103,009-17034,SME Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+104,009-17255,White collar worker,Takéo,MALE,MARRIED,Rural,A,3.0
+105,009-17188,Land Transport Service,Takéo,FEMALE,MARRIED,Rural,B,3.0
+106,009-17254,SME Farmer,Takéo,MALE,MARRIED,Rural,B,4.0
+107,009-17071,SME Farmer,Takéo,MALE,MARRIED,Rural,B,4.0
+108,009-17380,Other,Takéo,MALE,MARRIED,Rural,C,5.0
+109,009-17204,Small Farmer,Takéo,FEMALE,DIVORCED,Rural,,2.0
+110,009-17364,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,4.0
+111,009-17362,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+112,009-17449,White collar worker,Takéo,FEMALE,WIDOWER,Rural,A,3.0
+113,009-17189,Medium Biz,Takéo,MALE,MARRIED,Rural,B,5.0
+114,009-17520,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+115,009-17350,SME Farmer,Takéo,FEMALE,MARRIED,Rural,D,4.0
+116,009-17353,Small Farmer,Takéo,FEMALE,DIVORCED,Rural,,2.0
+117,009-17526,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+118,009-17582,Factory worker,Takéo,FEMALE,SINGLE,Rural,A,2.0
+119,009-17196,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+120,009-17137,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,3.0
+121,009-17049,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+122,009-17044,Other,Takéo,FEMALE,MARRIED,Rural,B,5.0
+123,009-17029,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+124,009-17100,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,2.0
+125,009-17135,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+126,009-17344,Other,Takéo,FEMALE,MARRIED,Rural,B,5.0
+127,009-17161,,Takéo,FEMALE,WIDOWER,Rural,,
+128,009-17264,Car Repair Shop,Takéo,FEMALE,MARRIED,Rural,,3.0
+129,009-17452,Factory worker,Kampong Speu,MALE,MARRIED,Rural,B,3.0
+130,009-17359,Factory worker,Takéo,MALE,MARRIED,Rural,,3.0
+131,009-17203,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+132,009-17232,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+133,009-17099,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+134,009-17395,Factory worker,Takéo,FEMALE,WIDOWER,Rural,B,3.0
+135,009-17114,Car Repair Shop,Takéo,MALE,MARRIED,Rural,,3.0
+136,009-17133,Factory worker,Kampong Speu,MALE,MARRIED,Rural,B,3.0
+137,009-17444,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+138,009-17083,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+139,009-17592,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+140,009-17131,Factory worker,Takéo,FEMALE,SINGLE,Rural,A,2.0
+141,009-17298,SME Farmer,Takéo,FEMALE,WIDOWER,Rural,A,4.0
+142,009-17076,Small Farmer,Takéo,MALE,MARRIED,Rural,D,3.0
+143,009-17001,Factory worker,Kampong Speu,MALE,MARRIED,Rural,B,3.0
+144,009-17459,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+145,009-17387,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,2.0
+146,009-17181,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,3.0
+147,009-17155,Construction Worker,Kampot,FEMALE,WIDOWER,Rural,A,3.0
+148,009-17345,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+149,009-17280,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+150,009-17103,SME Farmer,Takéo,MALE,MARRIED,Rural,B,4.0
+151,009-17173,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+152,009-17152,Factory worker,Kampong Speu,MALE,MARRIED,Rural,B,3.0
+153,009-17569,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+154,009-17327,Factory worker,Takéo,MALE,MARRIED,Rural,D,3.0
+155,009-17354,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+156,009-17342,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,3.0
+157,009-17228,Small Farmer,Takéo,MALE,MARRIED,Rural,,3.0
+158,009-17125,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+159,009-17454,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+160,009-17086,Factory worker,Takéo,MALE,MARRIED,Rural,A,3.0
+161,009-17434,Other,Banteay Meanchey,MALE,MARRIED,Rural,,1.0
+162,009-17184,Small Business Owner,Takéo,MALE,MARRIED,Rural,,2.0
+163,009-17069,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+164,009-17388,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+165,009-17158,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+166,009-17265,Car Repair Shop,Takéo,MALE,MARRIED,Rural,,3.0
+167,009-17172,White collar worker,Takéo,FEMALE,MARRIED,Rural,,1.0
+168,009-17312,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+169,009-17102,Construction Worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+170,009-17386,Factory worker,Takéo,MALE,MARRIED,Rural,A,3.0
+171,009-17242,SME Farmer,Takéo,FEMALE,MARRIED,Rural,C,4.0
+172,009-17200,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+173,009-17139,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+174,009-17230,Construction Worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+175,009-17066,Factory worker,Takéo,FEMALE,MARRIED,Rural,C,2.0
+176,009-17017,White collar worker,Takéo,FEMALE,WIDOWER,Rural,A,3.0
+177,009-17544,SME Farmer,Takéo,FEMALE,MARRIED,Rural,B,4.0
+178,009-17447,SME Farmer,Takéo,FEMALE,WIDOWER,Rural,A,4.0
+179,009-17080,Other,Takéo,MALE,MARRIED,Rural,C,5.0
+180,009-17223,White collar worker,Takéo,MALE,MARRIED,Rural,A,3.0
+181,009-17329,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+182,009-17286,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+183,009-17168,White collar worker,Takéo,FEMALE,WIDOWER,Rural,A,3.0
+184,009-17511,Factory worker,Takéo,MALE,MARRIED,Rural,A,3.0
+185,009-17375,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+186,009-17577,Small Farmer,Takéo,FEMALE,DIVORCED,Rural,,2.0
+187,009-17567,Construction Worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+188,009-17402,Construction Worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+189,009-17065,Factory worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+190,009-17122,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+191,009-17508,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+192,009-17465,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+193,009-17548,Factory worker,Takéo,FEMALE,WIDOWER,Rural,B,2.0
+194,009-17540,Small Farmer,Takéo,FEMALE,MARRIED,Rural,A,2.0
+195,009-17224,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,4.0
+196,009-17104,White collar worker,Takéo,MALE,MARRIED,Rural,A,3.0
+197,009-17408,Small Farmer,Takéo,MALE,MARRIED,Rural,D,3.0
+198,009-17030,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,3.0
+199,009-17574,SME Farmer,Takéo,FEMALE,MARRIED,Rural,D,4.0
+200,009-17294,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+201,009-17072,White collar worker,Takéo,MALE,MARRIED,Rural,A,3.0
+202,009-17538,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,2.0
+203,009-17032,White collar worker,Takéo,MALE,MARRIED,Rural,C,3.0
+204,009-17442,,Takéo,FEMALE,WIDOWER,Rural,,
+205,009-17436,Construction Worker,Kampot,FEMALE,WIDOWER,Rural,A,3.0
+206,009-17580,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+207,009-17376,Small Farmer,Takéo,MALE,MARRIED,Rural,D,3.0
+208,009-17106,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+209,009-17318,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+210,009-17484,Small Business Owner,Takéo,MALE,MARRIED,Rural,,2.0
+211,009-17424,Medium Biz,Takéo,FEMALE,MARRIED,Rural,B,5.0
+212,009-17358,Factory worker,Takéo,FEMALE,SINGLE,Rural,A,2.0
+213,009-17215,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,4.0
+214,009-17457,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,3.0
+215,009-17555,White collar worker,Takéo,MALE,MARRIED,Rural,A,3.0
+216,009-17385,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+217,009-17468,White collar worker,Takéo,FEMALE,WIDOWER,Rural,A,3.0
+218,009-17324,Factory worker,Takéo,FEMALE,MARRIED,Rural,,3.0
+219,009-17109,Small Farmer,Takéo,MALE,MARRIED,Rural,,3.0
+220,009-17322,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+221,009-17332,White collar worker,Takéo,MALE,MARRIED,Rural,C,3.0
+222,009-17174,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+223,009-17416,Construction Worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+224,009-17014,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+225,009-17519,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+226,009-17206,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+227,009-17552,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+228,009-17528,Small Farmer,Takéo,MALE,MARRIED,Rural,,3.0
+229,009-17248,Factory worker,Takéo,FEMALE,WIDOWER,Rural,B,2.0
+230,009-17410,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+231,009-17384,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+232,009-17217,Factory worker,Takéo,FEMALE,MARRIED,Rural,C,2.0
+233,009-17293,,Takéo,FEMALE,WIDOWER,Rural,,
+234,009-17094,Small Farmer,Takéo,MALE,MARRIED,Rural,C,3.0
+235,009-17409,Small Farmer,Takéo,MALE,MARRIED,Rural,,3.0
+236,009-17588,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,3.0
+237,009-17289,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,3.0
+238,009-17476,Factory worker,Takéo,MALE,MARRIED,Rural,D,3.0
+239,009-17338,Medium Biz,Takéo,MALE,MARRIED,Rural,B,5.0
+240,009-17292,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+241,009-17379,Construction Worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+242,009-17451,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+243,009-17011,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+244,009-17572,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+245,009-17311,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+246,009-17157,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,3.0
+247,009-17266,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,3.0
+248,009-17429,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+249,009-17585,Other,Banteay Meanchey,MALE,MARRIED,Rural,,1.0
+250,009-17153,Other,Banteay Meanchey,MALE,MARRIED,Rural,,1.0
+251,009-17339,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,,3.0
+252,009-17019,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+253,009-17050,SME Farmer,Takéo,FEMALE,MARRIED,Rural,D,4.0
+254,009-17219,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+255,009-17124,Medium Biz,Takéo,FEMALE,MARRIED,Rural,B,5.0
+256,009-17316,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+257,009-17281,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+258,009-17308,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+259,009-17504,Small Farmer,Takéo,FEMALE,DIVORCED,Rural,,2.0
+260,009-17002,Other,Banteay Meanchey,MALE,MARRIED,Rural,,1.0
+261,009-17075,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+262,009-17586,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+263,009-17005,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,3.0
+264,009-17403,SME Farmer,Takéo,MALE,MARRIED,Rural,B,4.0
+265,009-17335,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,D,3.0
+266,009-17037,Land Transport Service,Takéo,FEMALE,MARRIED,Rural,B,3.0
+267,009-17251,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,2.0
+268,009-17053,Small Farmer,Takéo,FEMALE,DIVORCED,Rural,,2.0
+269,009-17330,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,3.0
+270,009-17575,Medium Biz,Takéo,FEMALE,MARRIED,Rural,B,5.0
+271,009-17013,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,C,4.0
+272,009-17510,Factory worker,Takéo,MALE,MARRIED,Rural,,3.0
+273,009-17082,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+274,009-17495,Other,Takéo,FEMALE,MARRIED,Rural,B,5.0
+275,009-17411,Construction Worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+276,009-17512,Factory worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+277,009-17287,Construction Worker,Kampot,FEMALE,WIDOWER,Rural,A,3.0
+278,009-17513,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+279,009-17148,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+280,009-17412,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,,3.0
+281,009-17150,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+282,009-17560,Small Farmer,Takéo,MALE,MARRIED,Rural,,3.0
+283,009-17576,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+284,009-17334,SME Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+285,009-17142,,Takéo,FEMALE,WIDOWER,Rural,,
+286,009-17267,Construction Worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+287,009-17360,Factory worker,Takéo,MALE,MARRIED,Rural,A,3.0
+288,009-17304,Construction Worker,Kampot,FEMALE,WIDOWER,Rural,A,3.0
+289,009-17182,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,C,3.0
+290,009-17213,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+291,009-17543,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,2.0
+292,009-17550,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+293,009-17201,SME Farmer,Takéo,FEMALE,MARRIED,Rural,D,4.0
+294,009-17117,Other,Takéo,FEMALE,MARRIED,Rural,B,5.0
+295,009-17235,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+296,009-17079,Construction Worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+297,009-17193,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,3.0
+298,009-17475,Factory worker,Takéo,FEMALE,MARRIED,Rural,,3.0
+299,009-17218,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,3.0
+300,009-17596,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,C,4.0
+301,009-17130,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+302,009-17288,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,3.0
+303,009-17042,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,3.0
+304,009-17533,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+305,009-17036,White collar worker,Takéo,FEMALE,MARRIED,Rural,B,2.0
+306,009-17462,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+307,009-17039,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,,3.0
+308,009-17373,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,4.0
+309,009-17578,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+310,009-17303,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+311,009-17325,Factory worker,Takéo,MALE,MARRIED,Rural,D,3.0
+312,009-17439,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+313,009-17461,,Takéo,FEMALE,WIDOWER,Rural,,
+314,009-17563,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,,3.0
+315,009-17333,Small Business Owner,Takéo,MALE,MARRIED,Rural,,2.0
+316,009-17167,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+317,009-17430,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+318,009-17413,Car Repair Shop,Takéo,FEMALE,MARRIED,Rural,,3.0
+319,009-17277,Small Farmer,Takéo,FEMALE,DIVORCED,Rural,,2.0
+320,009-17539,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+321,009-17175,Factory worker,Takéo,FEMALE,MARRIED,Rural,,3.0
+322,009-17421,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+323,009-17199,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+324,009-17162,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+325,009-17259,Small Farmer,Takéo,MALE,MARRIED,Rural,D,3.0
+326,009-17084,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+327,009-17496,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+328,009-17497,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+329,009-17483,White collar worker,Takéo,MALE,MARRIED,Rural,C,3.0
+330,009-17435,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+331,009-17523,White collar worker,Takéo,MALE,MARRIED,Rural,A,3.0
+332,009-17571,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+333,009-17487,White collar worker,Takéo,FEMALE,MARRIED,Rural,B,2.0
+334,009-17522,SME Farmer,Takéo,MALE,MARRIED,Rural,B,4.0
+335,009-17007,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+336,009-17594,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+337,009-17207,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+338,009-17542,SME Farmer,Takéo,FEMALE,MARRIED,Rural,C,4.0
+339,009-17590,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+340,009-17529,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+341,009-17132,Factory worker,Takéo,MALE,MARRIED,Rural,,3.0
+342,009-17123,SME Farmer,Takéo,FEMALE,MARRIED,Rural,D,4.0
+343,009-17565,Car Repair Shop,Takéo,MALE,MARRIED,Rural,,3.0
+344,009-17547,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+345,009-17179,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+346,009-17561,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+347,009-17118,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+348,009-17272,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+349,009-17134,Other,Banteay Meanchey,MALE,MARRIED,Rural,,1.0
+350,009-17024,Factory worker,Takéo,FEMALE,MARRIED,Rural,,3.0
+351,009-17025,Factory worker,Takéo,MALE,MARRIED,Rural,D,3.0
+352,009-17116,Construction Worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+353,009-17282,Factory worker,Takéo,FEMALE,SINGLE,Rural,A,2.0
+354,009-17472,White collar worker,Takéo,FEMALE,MARRIED,Rural,,1.0
+355,009-17491,Car Repair Shop,Takéo,FEMALE,MARRIED,Rural,,3.0
+356,009-17048,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+357,009-17441,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+358,009-17351,Medium Biz,Takéo,FEMALE,MARRIED,Rural,B,5.0
+359,009-17156,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,3.0
+360,009-17052,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+361,009-17141,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+362,009-17252,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+363,009-17517,Factory worker,Takéo,FEMALE,MARRIED,Rural,C,2.0
+364,009-17253,Construction Worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+365,009-17111,Construction Worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+366,009-17231,Other,Takéo,MALE,MARRIED,Rural,C,5.0
+367,009-17389,Small Farmer,Takéo,FEMALE,MARRIED,Rural,A,2.0
+368,009-17340,Car Repair Shop,Takéo,FEMALE,MARRIED,Rural,,3.0
+369,009-17527,Small Farmer,Takéo,MALE,MARRIED,Rural,D,3.0
+370,009-17212,Factory worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+371,009-17300,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+372,009-17598,SME Farmer,Takéo,FEMALE,WIDOWER,Rural,A,4.0
+373,009-17320,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+374,009-17534,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+375,009-17258,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+376,009-17502,Medium Biz,Takéo,FEMALE,MARRIED,Rural,B,5.0
+377,009-17296,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,C,4.0
+378,009-17274,SME Farmer,Takéo,FEMALE,MARRIED,Rural,D,4.0
+379,009-17233,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+380,009-17361,Factory worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+381,009-17564,Car Repair Shop,Takéo,FEMALE,MARRIED,Rural,,3.0
+382,009-17323,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+383,009-17246,Factory worker,Takéo,FEMALE,WIDOWER,Rural,B,3.0
+384,009-17473,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+385,009-17250,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+386,009-17302,Other,Banteay Meanchey,MALE,MARRIED,Rural,,1.0
+387,009-17456,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,3.0
+388,009-17113,Car Repair Shop,Takéo,FEMALE,MARRIED,Rural,,3.0
+389,009-17047,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+390,009-17022,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+391,009-17004,Construction Worker,Kampot,FEMALE,WIDOWER,Rural,A,3.0
+392,009-17377,Small Farmer,Takéo,MALE,MARRIED,Rural,,3.0
+393,009-17425,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+394,009-17127,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+395,009-17178,Factory worker,Takéo,MALE,MARRIED,Rural,D,3.0
+396,009-17210,Factory worker,Takéo,MALE,MARRIED,Rural,,3.0
+397,009-17297,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+398,009-17498,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+399,009-17437,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,3.0
+400,009-17273,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+401,009-17183,White collar worker,Takéo,MALE,MARRIED,Rural,C,3.0
+402,009-17341,Car Repair Shop,Takéo,MALE,MARRIED,Rural,,3.0
+403,009-17045,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+404,009-17177,Construction Worker,Takéo,FEMALE,MARRIED,Rural,C,2.0
+405,009-17021,White collar worker,Takéo,FEMALE,MARRIED,Rural,,1.0
+406,009-17138,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,3.0
+407,009-17261,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+408,009-17432,Factory worker,Takéo,MALE,MARRIED,Rural,,3.0
+409,009-17315,SME Farmer,Takéo,FEMALE,WIDOWER,Rural,A,4.0
+410,009-17126,Small Farmer,Takéo,FEMALE,DIVORCED,Rural,,2.0
+411,009-17309,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+412,009-17355,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+413,009-17423,SME Farmer,Takéo,FEMALE,MARRIED,Rural,D,4.0
+414,009-17420,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+415,009-17477,Construction Worker,Takéo,FEMALE,MARRIED,Rural,C,2.0
+416,009-17115,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,3.0
+417,009-17414,Car Repair Shop,Takéo,MALE,MARRIED,Rural,,3.0
+418,009-17055,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+419,009-17068,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+420,009-17120,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+421,009-17301,Factory worker,Kampong Speu,MALE,MARRIED,Rural,B,3.0
+422,009-17239,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+423,009-17064,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,4.0
+424,009-17313,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,C,4.0
+425,009-17154,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+426,009-17145,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,C,4.0
+427,009-17566,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,3.0
+428,009-17337,Land Transport Service,Takéo,FEMALE,MARRIED,Rural,B,3.0
+429,009-17149,White collar worker,Takéo,FEMALE,WIDOWER,Rural,A,3.0
+430,009-17227,Small Farmer,Takéo,MALE,MARRIED,Rural,D,3.0
+431,009-17348,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+432,009-17291,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+433,009-17393,SME Farmer,Takéo,FEMALE,MARRIED,Rural,B,4.0
+434,009-17038,Medium Biz,Takéo,MALE,MARRIED,Rural,B,5.0
+435,009-17525,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+436,009-17256,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,4.0
+437,009-17164,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,C,4.0
+438,009-17214,Factory worker,Takéo,MALE,MARRIED,Rural,C,4.0
+439,009-17382,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+440,009-17015,SME Farmer,Takéo,FEMALE,WIDOWER,Rural,A,4.0
+441,009-17352,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+442,009-17110,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+443,009-17194,Construction Worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+444,009-17166,SME Farmer,Takéo,FEMALE,WIDOWER,Rural,A,4.0
+445,009-17305,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,3.0
+446,009-17516,Factory worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+447,009-17314,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+448,009-17505,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+449,009-17374,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+450,009-17417,Other,Takéo,FEMALE,MARRIED,Rural,B,5.0
+451,009-17067,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,3.0
+452,009-17485,SME Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+453,009-17112,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,,3.0
+454,009-17587,Construction Worker,Kampot,FEMALE,WIDOWER,Rural,A,3.0
+455,009-17541,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+456,009-17097,Factory worker,Takéo,FEMALE,WIDOWER,Rural,B,2.0
+457,009-17331,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,C,3.0
+458,009-17245,Small Farmer,Takéo,MALE,MARRIED,Rural,C,3.0
+459,009-17503,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+460,009-17464,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,C,4.0
+461,009-17467,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+462,009-17349,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+463,009-17422,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+464,009-17090,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+465,009-17160,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+466,009-17400,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,2.0
+467,009-17197,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+468,009-17469,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+469,009-17026,Construction Worker,Takéo,FEMALE,MARRIED,Rural,C,2.0
+470,009-17085,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+471,009-17440,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+472,009-17023,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+473,009-17056,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+474,009-17092,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,2.0
+475,009-17509,Factory worker,Takéo,FEMALE,SINGLE,Rural,A,2.0
+476,009-17192,Car Repair Shop,Takéo,MALE,MARRIED,Rural,,3.0
+477,009-17195,Other,Takéo,FEMALE,MARRIED,Rural,B,5.0
+478,009-17518,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,3.0
+479,009-17591,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+480,009-17494,Construction Worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+481,009-17499,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+482,009-17545,Small Farmer,Takéo,MALE,MARRIED,Rural,C,3.0
+483,009-17573,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+484,009-17247,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+485,009-17443,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+486,009-17108,Small Farmer,Takéo,MALE,MARRIED,Rural,D,3.0
+487,009-17597,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+488,009-17190,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,,3.0
+489,009-17062,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+490,009-17129,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+491,009-17059,Factory worker,Takéo,MALE,MARRIED,Rural,,3.0
+492,009-17285,Other,Banteay Meanchey,MALE,MARRIED,Rural,,1.0
+493,009-17438,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,3.0
+494,009-17363,Factory worker,Takéo,MALE,MARRIED,Rural,C,4.0
+495,009-17570,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+496,009-17151,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,2.0
+497,009-17450,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+498,009-17089,Small Farmer,Takéo,FEMALE,MARRIED,Rural,A,2.0
+499,009-17515,Food supplier/restaurant,Takéo,FEMALE,MARRIED,Rural,C,4.0
+500,009-17198,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+501,009-17270,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+502,009-17033,Small Business Owner,Takéo,MALE,MARRIED,Rural,,2.0
+503,009-17260,Small Farmer,Takéo,MALE,MARRIED,Rural,,3.0
+504,009-17458,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+505,009-17365,Factory worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+506,009-17394,Small Farmer,Takéo,MALE,MARRIED,Rural,C,3.0
+507,009-17500,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+508,009-17268,Other,Takéo,FEMALE,MARRIED,Rural,B,5.0
+509,009-17537,Factory worker,Takéo,MALE,MARRIED,Rural,A,3.0
+510,009-17405,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,4.0
+511,009-17119,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+512,009-17221,Construction Worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+513,009-17009,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+514,009-17357,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+515,009-17419,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+516,009-17185,SME Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+517,009-17482,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,C,3.0
+518,009-17249,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+519,009-17486,Small Business Owner,Takéo,FEMALE,MARRIED,Rural,D,3.0
+520,009-17031,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,C,3.0
+521,009-17284,Factory worker,Kampong Speu,MALE,MARRIED,Rural,B,3.0
+522,009-17136,Construction Worker,Kampot,FEMALE,WIDOWER,Rural,A,3.0
+523,009-17554,SME Farmer,Takéo,MALE,MARRIED,Rural,B,4.0
+524,009-17144,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+525,009-17581,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+526,009-17057,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
+527,009-17176,Factory worker,Takéo,MALE,MARRIED,Rural,D,3.0
+528,009-17367,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,3.0
+529,009-17397,Factory worker,Takéo,FEMALE,WIDOWER,Rural,B,2.0
+530,009-17159,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+531,009-17128,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+532,009-17008,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+533,009-17263,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,,3.0
+534,009-17532,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+535,009-17479,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+536,009-17180,Small Farmer,Takéo,FEMALE,MARRIED,Rural,D,3.0
+537,009-17018,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+538,009-17551,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,2.0
+539,009-17307,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+540,009-17428,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+541,009-17556,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,4.0
+542,009-17553,Construction Worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+543,009-17481,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,3.0
+544,009-17536,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+545,009-17299,White collar worker,Takéo,FEMALE,WIDOWER,Rural,A,3.0
+546,009-17366,Factory worker,Takéo,FEMALE,MARRIED,Rural,C,2.0
+547,009-17237,Factory worker,Takéo,MALE,MARRIED,Rural,A,3.0
+548,009-17202,Medium Biz,Takéo,FEMALE,MARRIED,Rural,B,5.0
+549,009-17098,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+550,009-17271,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+551,009-17028,Small Farmer,Takéo,MALE,MARRIED,Rural,,2.0
+552,009-17346,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+553,009-17027,Factory worker,Takéo,MALE,MARRIED,Rural,D,3.0
+554,009-17020,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+555,009-17531,Other,Takéo,MALE,MARRIED,Rural,C,5.0
+556,009-17276,Small Farmer,Takéo,FEMALE,MARRIED,Rural,B,2.0
+557,009-17091,SME Farmer,Takéo,FEMALE,MARRIED,Rural,C,4.0
+558,009-17455,Construction Worker,Kampot,FEMALE,WIDOWER,Rural,A,3.0
+559,009-17238,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,2.0
+560,009-17073,Construction Worker,Takéo,FEMALE,MARRIED,Rural,A,4.0
+561,009-17347,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,3.0
+562,009-17077,Small Farmer,Takéo,MALE,MARRIED,Rural,,3.0
+563,009-17187,White collar worker,Takéo,FEMALE,MARRIED,Rural,B,2.0
+564,009-17600,Factory worker,Takéo,FEMALE,MARRIED,Rural,D,2.0
+565,009-17343,Construction Worker,Takéo,FEMALE,MARRIED,Rural,,2.0
+566,009-17514,Factory worker,Takéo,MALE,MARRIED,Rural,C,4.0
+567,009-17081,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+568,009-17579,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+569,009-17463,Construction Worker,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+570,009-17378,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,A,2.0
+571,009-17040,Car Repair Shop,Takéo,FEMALE,MARRIED,Rural,,3.0
+572,009-17530,Construction Worker,Takéo,FEMALE,MARRIED,Rural,B,4.0
+573,009-17278,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+574,009-17589,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,3.0
+575,009-17506,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+576,009-17559,Small Farmer,Takéo,MALE,MARRIED,Rural,D,3.0
+577,009-17226,Factory worker,Takéo,FEMALE,MARRIED,Rural,A,3.0
+578,009-17356,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,C,2.0
+579,009-17257,Factory worker,Takéo,FEMALE,WIDOWER,Rural,C,3.0
+580,009-17371,SME Farmer,Takéo,MALE,MARRIED,Rural,B,4.0
+581,009-17427,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+582,009-17234,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+583,009-17306,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,,3.0
+584,009-17390,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+585,009-17269,Factory worker,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+586,009-17101,Small Farmer,Takéo,FEMALE,MARRIED,Rural,,2.0
+587,009-17146,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,3.0
+588,009-17490,Food supplier/restaurant,Takéo,MALE,MARRIED,Rural,,3.0
+589,009-17060,Factory worker,Takéo,MALE,MARRIED,Rural,A,3.0
+590,009-17290,Factory worker,Takéo,FEMALE,WIDOWER,Rural,,2.0
+591,009-17392,Small Farmer,Takéo,FEMALE,MARRIED,Rural,C,2.0
+592,009-17244,SME Farmer,Takéo,FEMALE,MARRIED,Rural,B,4.0
+593,009-17041,Car Repair Shop,Takéo,MALE,MARRIED,Rural,,3.0
+594,009-17191,Car Repair Shop,Takéo,FEMALE,MARRIED,Rural,,3.0
+595,009-17211,Factory worker,Takéo,MALE,MARRIED,Rural,A,3.0
+596,009-17593,,Takéo,FEMALE,WIDOWER,Rural,,
+597,009-17279,Small Farmer,Takéo,FEMALE,WIDOWER,Rural,D,2.0
+598,009-17433,Factory worker,Kampong Speu,MALE,MARRIED,Rural,B,3.0
+599,009-17396,White collar worker,Takéo,MALE,MARRIED,Rural,B,3.0
