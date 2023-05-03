@@ -16,7 +16,7 @@ You will learn from Nicholas Renotte's fast YouTube courses, a Data Science Spec
 In this crash course, you'll learn the basics of Pandas, one of the most widely used data analysis libraries in Python. This course will teach you the 20% of Pandas you need to know to get 80% of the results.
 
 Link to course: https://youtu.be/tRKeLrwfUgU <br>
-Github Repo for the Project: https://github.com/nicknochnack/Pandasin20Minutes (your handy template)
+Github Repo for the Project: https://github.com/nicknochnack/Pandasin20Minutes (the .ipynb file is your reusable template)
 
 ## <b> Course 2: Mastering Data Analysis with Pandas (with project certification) </b> 
 In this hands-on course, you'll learn how to use Pandas to analyze real-world datasets and solve complex problems. You'll work on a project that will allow you to apply your newly acquired skills to a real-world problem and earn a certification upon completion.
