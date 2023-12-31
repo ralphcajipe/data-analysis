@@ -1,4 +1,4 @@
-# <b> Data Analyst Study Guide </b>
+# <b> Data Analysis Study Guide </b>
 
 Welcome to the data analysis study guide! As a beginner, this guide will provide you with the resources you need to get started with data analysis.
 
